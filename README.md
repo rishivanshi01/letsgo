@@ -1,1 +1,2 @@
 # letsgo
+print("hello world")
